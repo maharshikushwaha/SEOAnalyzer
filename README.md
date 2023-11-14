@@ -16,7 +16,7 @@ SEOAnalyzer is a Python script that analyzes a webpage for basic SEO aspects and
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/SEOAnalyzer.git
+    git clone https://github.com/maharshikushwaha/SEOAnalyzer.git
     cd SEOAnalyzer
     ```
 
